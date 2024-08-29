@@ -3,9 +3,9 @@
 <!--백준 티어 설정하기-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhy2301)](https://solved.ac/jhy2301/)
 <!--사용 언어 로고 -->
-![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=White)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=White)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <!--
 **Null0RM/Null0RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
