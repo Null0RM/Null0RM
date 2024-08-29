@@ -3,7 +3,7 @@
 <!--백준 티어 설정하기-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhy2301)](https://solved.ac/jhy2301/)
 <!--사용 언어 로고 -->
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=White)
+![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=White)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
 
 <!--
