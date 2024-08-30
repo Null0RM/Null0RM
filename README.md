@@ -10,9 +10,9 @@
 <div align="center">
   
   🐅 Korea Univ, Smart Security 2nd         
-  🖥️ 42Seoul         
-  👨‍💻 LG Electric, VS CSEU Internship          
-  ⛓️ Upside Academy 1st
+  🖥️ 42Seoul (Dev)    
+  👨‍💻 LG Electric, VS CSEU Internship (KMS Dev)    
+  ⛓️ Upside Academy 1st (Web3 Security)    
 
 </div>
 
