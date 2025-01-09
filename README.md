@@ -30,5 +30,6 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+  ![Circom](https://img.shields.io/badge/Circom-000000?style=flat-square&logo=Circom&logoColor=white)
 
 </div>
