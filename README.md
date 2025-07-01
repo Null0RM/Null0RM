@@ -7,10 +7,11 @@
 
 <div align="center">
   
-  🐅 Korea Univ, Smart Security 2nd         
+  🐅 Korea Univ, Smart Security, class of 2022         
   🖥️ 42Seoul (Dev)    
   👨‍💻 LG Electric, VS CSEU Internship (KMS Dev)    
   ⛓️ Upside Academy 1st (Web3 Security)    
+     Republic of Korea Air Force (2025.02.03 ~ )
 
 </div>
 
