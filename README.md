@@ -9,17 +9,11 @@
   
   🐅 Korea Univ, Smart Security, class of 2022         
   🖥️ 42Seoul (Dev)    
-  👨‍💻 LG Electric, VS CSEU Internship (KMS Dev)    
-  ⛓️ Upside Academy 1st (Web3 Security)    
+  👨‍💻 LG Electric, VS CSEU Internship (KMS)    
+  ⛓️ Upside Academy 1st (Web3 Sec)    
      Republic of Korea Air Force (2025.02.03 ~ )
 
 </div>
-
-<!--백준 티어 설정하기-->
-
-<!-- <div align="center"> -->
-<!--  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhy2301)](https://solved.ac/jhy2301/) -->
-<!-- </div> -->
 
 <div align="center">
   
