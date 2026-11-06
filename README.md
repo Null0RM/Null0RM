@@ -11,7 +11,7 @@
   🖥️ 42Seoul (Dev)    
   👨‍💻 LG Electric, VS CSEU Internship (KMS)    
   ⛓️ Upside Academy 1st (Web3 Sec)    
-     Republic of Korea Air Force (2025.02.03 ~ )
+     Republic of Korea Air Force (2025.02.03 ~ 2026.11.02)
 
 </div>
 
